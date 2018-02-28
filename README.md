@@ -1,1 +1,2 @@
-# aml_final_project
+# STAT598 Project: Deep Learning for Futures Price Prediction
+
